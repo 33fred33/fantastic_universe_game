@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: affb8a79d3b857a4ba103932a85baaa2
+timeCreated: 1469832141
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BCadera
+    100002: BCarpoDerecho
+    100004: BCarpoIzquierdo
+    100006: BCola1
+    100008: BCola2
+    100010: BCola3
+    100012: BCola4
+    100014: BCola5
+    100016: BCola6
+    100018: BCola7
+    100020: BCola8
+    100022: BColaFinal
+    100024: BEspalda
+    100026: BFemurDerecho
+    100028: BFemurIzquierdo
+    100030: BHumeroDerecho
+    100032: BHumeroIzquierdo
+    100034: BMandibula
+    100036: BMandibula_NeutralPose
+    100038: BMetacarpoDerecho
+    100040: BMetacarpoIzquierdo
+    100042: bone11
+    100044: bone13
+    100046: bone15
+    100048: bone16
+    100050: bone17
+    100052: bone18
+    100054: bone19
+    100056: bone20
+    100058: bone21
+    100060: bone23
+    100062: bone25
+    100064: bone27
+    100066: bone32
+    100068: bone33
+    100070: bone34
+    100072: bone35
+    100074: bone36
+    100076: bone37
+    100078: bone6
+    100080: bone7
+    100082: bone8
+    100084: bone9
+    100086: BPrimeraFalangeAnularDerecho
+    100088: BPrimeraFalangeIndiceDerecho
+    100090: BPuntaPieDerecho
+    100092: BPuntaPieIzquierdo
+    100094: BRadioDerecho
+    100096: BRadioIzquierdo
+    100098: Brazos
+    100100: BSegundaFalangeAnularDerecho
+    100102: BSegundaFalangeIndiceDerecho
+    100104: BTalonDerecho
+    100106: BTalonIzqueirdo
+    100108: BTerceraFalangeAnularDerecho
+    100110: BTerceraFalangeIndiceDerecho
+    100112: BTibiaDerecha
+    100114: BTibiaIzquierda
+    100116: Cabello
+    100118: Cabeza
+    100120: Chaleco
+    100122: Cola
+    100124: Dientes
+    100126: //RootNode
+    100128: eff10
+    100130: eff11
+    100132: eff2
+    100134: eff3
+    100136: eff5
+    100138: eff6
+    100140: eff7
+    100142: eff9
+    100144: EffAnularDerecho
+    100146: EffCola
+    100148: EffColumnaVertebral
+    100150: EffIndiceDerecho
+    100152: EffMandibula
+    100154: EffManoDerecha
+    100156: EffManoIzquierda
+    100158: EffPuntaPieDerecho
+    100160: EffPuntaPieIzqueirdo
+    100162: Mandibula
+    100164: Palmas
+    100166: PieDerecho
+    100168: PieIzquierdo
+    100170: PiernaDerecha
+    100172: PiernaIzquierda
+    100174: Pulgares
+    100176: SAnularDerecho
+    100178: SAnularIzquierdo
+    100180: SAxilaDerecha
+    100182: SAxilaIzquierda
+    100184: SCola
+    100186: SColumnaVertebral
+    100188: SColumnaVertebral_NeutralPose
+    100190: SIndiceDerecho
+    100192: SIndiceIzquierdo
+    100194: SMandibula
+    100196: SMe_iqueDerecho
+    100198: SMe_iqueIzquierdo
+    100200: SMedioDerecho
+    100202: SMedioIzquierdo
+    100204: SPiernaDerecha
+    100206: SPiernaIzquierda
+    100208: SPulgarDerecho
+    100210: SPulgarIzquierdo
+    400000: BCadera
+    400002: BCarpoDerecho
+    400004: BCarpoIzquierdo
+    400006: BCola1
+    400008: BCola2
+    400010: BCola3
+    400012: BCola4
+    400014: BCola5
+    400016: BCola6
+    400018: BCola7
+    400020: BCola8
+    400022: BColaFinal
+    400024: BEspalda
+    400026: BFemurDerecho
+    400028: BFemurIzquierdo
+    400030: BHumeroDerecho
+    400032: BHumeroIzquierdo
+    400034: BMandibula
+    400036: BMandibula_NeutralPose
+    400038: BMetacarpoDerecho
+    400040: BMetacarpoIzquierdo
+    400042: bone11
+    400044: bone13
+    400046: bone15
+    400048: bone16
+    400050: bone17
+    400052: bone18
+    400054: bone19
+    400056: bone20
+    400058: bone21
+    400060: bone23
+    400062: bone25
+    400064: bone27
+    400066: bone32
+    400068: bone33
+    400070: bone34
+    400072: bone35
+    400074: bone36
+    400076: bone37
+    400078: bone6
+    400080: bone7
+    400082: bone8
+    400084: bone9
+    400086: BPrimeraFalangeAnularDerecho
+    400088: BPrimeraFalangeIndiceDerecho
+    400090: BPuntaPieDerecho
+    400092: BPuntaPieIzquierdo
+    400094: BRadioDerecho
+    400096: BRadioIzquierdo
+    400098: Brazos
+    400100: BSegundaFalangeAnularDerecho
+    400102: BSegundaFalangeIndiceDerecho
+    400104: BTalonDerecho
+    400106: BTalonIzqueirdo
+    400108: BTerceraFalangeAnularDerecho
+    400110: BTerceraFalangeIndiceDerecho
+    400112: BTibiaDerecha
+    400114: BTibiaIzquierda
+    400116: Cabello
+    400118: Cabeza
+    400120: Chaleco
+    400122: Cola
+    400124: Dientes
+    400126: //RootNode
+    400128: eff10
+    400130: eff11
+    400132: eff2
+    400134: eff3
+    400136: eff5
+    400138: eff6
+    400140: eff7
+    400142: eff9
+    400144: EffAnularDerecho
+    400146: EffCola
+    400148: EffColumnaVertebral
+    400150: EffIndiceDerecho
+    400152: EffMandibula
+    400154: EffManoDerecha
+    400156: EffManoIzquierda
+    400158: EffPuntaPieDerecho
+    400160: EffPuntaPieIzqueirdo
+    400162: Mandibula
+    400164: Palmas
+    400166: PieDerecho
+    400168: PieIzquierdo
+    400170: PiernaDerecha
+    400172: PiernaIzquierda
+    400174: Pulgares
+    400176: SAnularDerecho
+    400178: SAnularIzquierdo
+    400180: SAxilaDerecha
+    400182: SAxilaIzquierda
+    400184: SCola
+    400186: SColumnaVertebral
+    400188: SColumnaVertebral_NeutralPose
+    400190: SIndiceDerecho
+    400192: SIndiceIzquierdo
+    400194: SMandibula
+    400196: SMe_iqueDerecho
+    400198: SMe_iqueIzquierdo
+    400200: SMedioDerecho
+    400202: SMedioIzquierdo
+    400204: SPiernaDerecha
+    400206: SPiernaIzquierda
+    400208: SPulgarDerecho
+    400210: SPulgarIzquierdo
+    4300000: Cabeza
+    4300002: Cabello
+    4300004: Brazos
+    4300006: Palmas
+    4300008: Pulgares
+    4300010: Cola
+    4300012: Mandibula
+    4300014: Dientes
+    4300016: PiernaIzquierda
+    4300018: PieIzquierdo
+    4300020: PiernaDerecha
+    4300022: PieDerecho
+    4300024: Chaleco
+    7400000: Idle
+    7400002: EnterBattle
+    7400004: PunchAttack
+    7400006: BiteAttack
+    7400008: Damaged
+    9500000: //RootNode
+    13700000: Brazos
+    13700002: Cabello
+    13700004: Cabeza
+    13700006: Chaleco
+    13700008: Cola
+    13700010: Dientes
+    13700012: Mandibula
+    13700014: Palmas
+    13700016: PieDerecho
+    13700018: PieIzquierdo
+    13700020: PiernaDerecha
+    13700022: PiernaIzquierda
+    13700024: Pulgares
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 495
+      lastFrame: 555
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cabeza
+        weight: 1
+      - path: Cabeza/Brazos
+        weight: 1
+      - path: Cabeza/Brazos/Palmas
+        weight: 1
+      - path: Cabeza/Brazos/Palmas/Pulgares
+        weight: 1
+      - path: Cabeza/Cabello
+        weight: 1
+      - path: Cabeza/Chaleco
+        weight: 1
+      - path: Cabeza/Cola
+        weight: 1
+      - path: Cabeza/Mandibula
+        weight: 1
+      - path: Cabeza/Mandibula/Dientes
+        weight: 1
+      - path: Cabeza/PiernaDerecha
+        weight: 1
+      - path: Cabeza/PiernaDerecha/PieDerecho
+        weight: 1
+      - path: Cabeza/PiernaIzquierda
+        weight: 1
+      - path: Cabeza/PiernaIzquierda/PieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/EffColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/EffManoDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho/EffAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho/EffIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36/eff10
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20/eff6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8/eff2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/EffManoIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27/eff9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15/eff5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37/eff11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21/eff7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9/eff3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula/EffMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal/EffCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho/EffPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo/EffPuntaPieIzqueirdo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: EnterBattle
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 483
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cabeza
+        weight: 1
+      - path: Cabeza/Brazos
+        weight: 1
+      - path: Cabeza/Brazos/Palmas
+        weight: 1
+      - path: Cabeza/Brazos/Palmas/Pulgares
+        weight: 1
+      - path: Cabeza/Cabello
+        weight: 1
+      - path: Cabeza/Chaleco
+        weight: 1
+      - path: Cabeza/Cola
+        weight: 1
+      - path: Cabeza/Mandibula
+        weight: 1
+      - path: Cabeza/Mandibula/Dientes
+        weight: 1
+      - path: Cabeza/PiernaDerecha
+        weight: 1
+      - path: Cabeza/PiernaDerecha/PieDerecho
+        weight: 1
+      - path: Cabeza/PiernaIzquierda
+        weight: 1
+      - path: Cabeza/PiernaIzquierda/PieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/EffColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/EffManoDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho/EffAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho/EffIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36/eff10
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20/eff6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8/eff2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/EffManoIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27/eff9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15/eff5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37/eff11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21/eff7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9/eff3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula/EffMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal/EffCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho/EffPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo/EffPuntaPieIzqueirdo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: PunchAttack
+      takeName: Take 001
+      firstFrame: 258
+      lastFrame: 483
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cabeza
+        weight: 1
+      - path: Cabeza/Brazos
+        weight: 1
+      - path: Cabeza/Brazos/Palmas
+        weight: 1
+      - path: Cabeza/Brazos/Palmas/Pulgares
+        weight: 1
+      - path: Cabeza/Cabello
+        weight: 1
+      - path: Cabeza/Chaleco
+        weight: 1
+      - path: Cabeza/Cola
+        weight: 1
+      - path: Cabeza/Mandibula
+        weight: 1
+      - path: Cabeza/Mandibula/Dientes
+        weight: 1
+      - path: Cabeza/PiernaDerecha
+        weight: 1
+      - path: Cabeza/PiernaDerecha/PieDerecho
+        weight: 1
+      - path: Cabeza/PiernaIzquierda
+        weight: 1
+      - path: Cabeza/PiernaIzquierda/PieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/EffColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/EffManoDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho/EffAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho/EffIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36/eff10
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20/eff6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8/eff2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/EffManoIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27/eff9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15/eff5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37/eff11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21/eff7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9/eff3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula/EffMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal/EffCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho/EffPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo/EffPuntaPieIzqueirdo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: BiteAttack
+      takeName: Take 001
+      firstFrame: 545
+      lastFrame: 566
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cabeza
+        weight: 1
+      - path: Cabeza/Brazos
+        weight: 1
+      - path: Cabeza/Brazos/Palmas
+        weight: 1
+      - path: Cabeza/Brazos/Palmas/Pulgares
+        weight: 1
+      - path: Cabeza/Cabello
+        weight: 1
+      - path: Cabeza/Chaleco
+        weight: 1
+      - path: Cabeza/Cola
+        weight: 1
+      - path: Cabeza/Mandibula
+        weight: 1
+      - path: Cabeza/Mandibula/Dientes
+        weight: 1
+      - path: Cabeza/PiernaDerecha
+        weight: 1
+      - path: Cabeza/PiernaDerecha/PieDerecho
+        weight: 1
+      - path: Cabeza/PiernaIzquierda
+        weight: 1
+      - path: Cabeza/PiernaIzquierda/PieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/EffColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/EffManoDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho/EffAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho/EffIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36/eff10
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20/eff6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8/eff2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/EffManoIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27/eff9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15/eff5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37/eff11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21/eff7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9/eff3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula/EffMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal/EffCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho/EffPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo/EffPuntaPieIzqueirdo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Damaged
+      takeName: Take 001
+      firstFrame: 108
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cabeza
+        weight: 1
+      - path: Cabeza/Brazos
+        weight: 1
+      - path: Cabeza/Brazos/Palmas
+        weight: 1
+      - path: Cabeza/Brazos/Palmas/Pulgares
+        weight: 1
+      - path: Cabeza/Cabello
+        weight: 1
+      - path: Cabeza/Chaleco
+        weight: 1
+      - path: Cabeza/Cola
+        weight: 1
+      - path: Cabeza/Mandibula
+        weight: 1
+      - path: Cabeza/Mandibula/Dientes
+        weight: 1
+      - path: Cabeza/PiernaDerecha
+        weight: 1
+      - path: Cabeza/PiernaDerecha/PieDerecho
+        weight: 1
+      - path: Cabeza/PiernaIzquierda
+        weight: 1
+      - path: Cabeza/PiernaIzquierda/PieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/EffColumnaVertebral
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/EffManoDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SAnularDerecho/BPrimeraFalangeAnularDerecho/BSegundaFalangeAnularDerecho/BTerceraFalangeAnularDerecho/EffAnularDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SIndiceDerecho/BPrimeraFalangeIndiceDerecho/BSegundaFalangeIndiceDerecho/BTerceraFalangeIndiceDerecho/EffIndiceDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMe_iqueDerecho/bone32/bone34/bone36/eff10
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SMedioDerecho/bone16/bone18/bone20/eff6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaDerecha/BHumeroDerecho/BRadioDerecho/BCarpoDerecho/BMetacarpoDerecho/SPulgarDerecho/bone6/bone8/eff2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/EffManoIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SAnularIzquierdo/bone23/bone25/bone27/eff9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SIndiceIzquierdo/bone11/bone13/bone15/eff5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMe_iqueIzquierdo/bone33/bone35/bone37/eff11
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SMedioIzquierdo/bone17/bone19/bone21/eff7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SAxilaIzquierda/BHumeroIzquierdo/BRadioIzquierdo/BCarpoIzquierdo/BMetacarpoIzquierdo/SPulgarIzquierdo/bone7/bone9/eff3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/BEspalda/SMandibula/BMandibula_NeutralPose/BMandibula/EffMandibula
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SCola/BCola1/BCola2/BCola3/BCola4/BCola5/BCola6/BCola7/BCola8/BColaFinal/EffCola
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaDerecha/BFemurDerecho/BTibiaDerecha/BTalonDerecho/BPuntaPieDerecho/EffPuntaPieDerecho
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo
+        weight: 1
+      - path: SColumnaVertebral_NeutralPose/SColumnaVertebral/BCadera/SPiernaIzquierda/BFemurIzquierdo/BTibiaIzquierda/BTalonIzqueirdo/BPuntaPieIzquierdo/EffPuntaPieIzqueirdo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
